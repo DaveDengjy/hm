@@ -1,0 +1,26 @@
+<style type="text/css">
+<!--
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+#apDiv1 {
+	position:absolute;
+	left:480px;
+	top:200px;
+	width:396px;
+	height:118px;
+	z-index:1;
+}
+#apDiv2 {
+	position:absolute;
+	left:530px;
+	top:760px;
+	width:170px;
+	height:112px;
+	z-index:4;
+}
+-->
+</style>
